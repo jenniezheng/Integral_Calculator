@@ -1,3 +1,3 @@
 Command line Multivariable Integral Calculator Program
 
-<img src="Pic.png" height="200" width="500" >
+<img src="Pic.png" height="100" width="500" >
