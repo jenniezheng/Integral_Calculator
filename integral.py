@@ -4,7 +4,6 @@ from scipy import integrate
 import numpy as np
 import math
 import re
-from tkinter import *
 
 def mathToPython(mathFunc):
     mathFunc=re.sub(r"(?<=[\*\+/-])([\d\w]+)(?=\()",r"math.\1",mathFunc);
