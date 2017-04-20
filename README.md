@@ -5,4 +5,4 @@ It is significantly faster than wolfram alpha, but does display the integration 
 
 I plan to eventually create a graphics interface for the program.  
 
-<img src="Pic.png" height="100" width="500" >
+<img src="Pic.png" height="400" width="600" >
