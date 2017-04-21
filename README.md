@@ -1,5 +1,5 @@
 ### Multivariable Integral Calculator
-Small command line program I made to help me with my multivariable integral calculator.
+Small command line program I made to help me with my multivariable math homework. 
 
 It is significantly faster than wolfram alpha, but does not display the integration steps like wolfram  does.
 
